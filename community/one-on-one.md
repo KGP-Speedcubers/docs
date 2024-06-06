@@ -9,18 +9,15 @@ toc=true
 During Freshers' Induction, every [Core Team Member](/community/governance.md) is assigned one (or more) Executive(s) as 1:1 mentor(s). The mentee and mentor(s) decide the frequency, length, time, venue and nature of their 1:1 meetups.
 
 A 1:1 can be about
-* Career goals of Mentor/Mentee
 * Feedback/Discussion about involvement in KGP Speedcubers
 * Brainstorming on new ideas/articles and implementations
 * Creating a comfort zone for new members to open up with the team
 
 ## Notes
-* Use Calendar to schedule your 1:1. Use the weekly/bi-weekly/monthly schedule feature.
 * Come prepared with questions to ask or points to discuss. You can create an email thread between you and your mentor and log notes after the meetups.
 * 1:1 mentorship is voluntary. Every Executive does not need to be a mentor if they are unable to commit their time.
 * Mentors can invite any Advisor in any meeting. 1:1s are informal and inclusive.
 * Mentors can be changed upon request by either the mentor or the mentee.
-* Create a google doc/notion page for listing out resources discussed in the meet.
 * If a particular task needs to be accomplished then the mentor can take regular follow ups regarding the task. (Here task refers to any self help goal.)
 
 ## Guidelines for the mentors
@@ -42,4 +39,3 @@ A 1:1 can be about
   * Have you ever been in situation X? How did you solve it?
   * I am working on X these days. Do you have any suggestions or feedback?
   * I am thinking about learning X. Can you tell me the pros/cons of doing so?
-  * Tell me something about yourself which I might not know.

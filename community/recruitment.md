@@ -7,9 +7,6 @@ toc=true
 ## Whom do we recruit?
 We recruit UG 1st years in the team, preferably after they have spent at least one semester on the campus and participated in KGP Speedcubers' events. We can also recruit any 2nd year in their third semester, based on recommendations by the members.
 
-## How do we recruit?
-For more detailed description, refer [Freshers' Selection](/events/freshers-selection.md)
-
 ## Do we accept M.Tech and Ph.D students?
 No. By acceptance, we mean that they will hold a number of responsibilities
 - Attend our meetings

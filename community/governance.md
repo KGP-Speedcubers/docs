@@ -13,16 +13,10 @@ toc=true
 
 Permanent membership of KGP Speedcubers mandates serving one year as an Executive. But if advisors mutually agree that any particular human shouldn't be advisor due to several reasons like fundamentals which includes work ethics and style(for example aristocratic), wrong inheritance of values(how things work, why things are the way they are etc) of being in KGP Speedcubers, what values they are imparting/spreading to their junior and their batchmate and how much they are aligned with KGP Speedcubers work culture or their contribution as Executive, then they can remove that particular human. 
 
-## The Story
-
-Members join KGP Speedcubers in their first year as Core Team members. They spend their time learning and improving at speedcubing, as well as working on raising the awareness of speedcubing on campus. At the end of their second year, they take up the role of Executive Heads after a rigorous [Governance Review Week](/community/governance-review-week.md). The former Executive Heads and Advisors decide whether a CTM will become an Executive Head. (See [Onboarding/Offboarding](/community/onboarding-offboarding.md)). After serving another year, they pass on the baton to the next batch, and they become Advisors while staying on the campus. They actively take part in the discussions, events, and seminars as per their skills and expertise. They graduate to become KGP Speedcubers Alumni, the role of which is undecided yet (contributing to the alum fund is recommended).
 
 ## The policy of KGP Speedcubers membership
 
 We recruit UG 1st years in the team, preferably after they have spent one semester on the campus. We can also recruit any 2nd year in their third semester, based on recommendations by the members.
-
-In the spring semester of Core Team members, they go through a Governance week discussion and finally become the new Executives (Heads and Members). Former Executives should carefully offboard members who are not a good fit for the upcoming Executive batch. Every single individual should have a net positive impact on the team. See [Onboarding/Offboarding](/community/onboarding-offboarding.md) for more detail.
-
 
 ## Detailed Role Descriptions:
 ### 1. Executives
@@ -43,7 +37,7 @@ Executive Heads regularly consult with the Advisors. They must do it before intr
 
 > Members in their late first and early second year
 
-Core Team members always represent the next generation of KGP Speedcubers at IIT Kharagpur. They **actively** volunteer to learn and conduct events, workshops, classes, etc. CTMs also learn how to work in a team. “Community is more important than Cube,” and the core team should take this seriously.
+Core Team members always represent the next generation of KGP Speedcubers at IIT Kharagpur. They **actively** volunteer to learn and conduct events, workshops, classes, etc. CTMs also learn how to work in a team. 
 
 At the end of the session, there is a week-long discussion with the Core Team members where they put their ideas forward on topics such as ‘Events,’ ‘Community Standards,’ ‘New hires,’ ‘Meetings and Communications’, etc. After these discussions, the former Executive Heads select the new Executive Heads and terminate the membership of people who are not a cultural fit to work with the Executives.
 
@@ -60,7 +54,6 @@ One of the Advisors acts as the Treasurer of KGP Speedcubers and oversees the fi
 “Members who have graduated from KGP”
 
 The role has no formal duties, as of now. They are _requested_ to contribute to the alum fund.
-
 
 ## Guidelines
 
