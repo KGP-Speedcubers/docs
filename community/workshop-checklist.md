@@ -7,27 +7,27 @@ toc=true
 
 ## 1. Logistics - Before the Workshop
 
-✔️ Decide the **_date and time_** of the event as per the convenience of speakers and audience. Conducting **_events during exams_** or some other important event might **_not be a good idea_** in general. Checking **_academic calendar_** and other events in KGP is suggested.
+- [ ] Decide the **_date and time_** of the event as per the convenience of speakers and audience. Conducting **_events during exams_** or some other important event might **_not be a good idea_** in general. Checking **_academic calendar_** and other events in KGP is suggested.
 
-✔️ Publicize the event at least **_2 or 3_** days before the workshop. Publicizing earlier will fade away the event info from memory and publicizing late will be difficult for the audience to plan for.
+- [ ] Publicize the event at least **_2 or 3_** days before the workshop. Publicizing earlier will fade away the event info from memory and publicizing late will be difficult for the audience to plan for.
 
-✔️ Complete [room and AV cell booking](../events/room-booking.md) _at least_ **2 weeks** before the workshop.
+- [ ] Complete [room and AV cell booking](../events/room-booking.md) _at least_ **2 weeks** before the workshop.
 
-✔️ Share the Post on Facebook, Twitter and Linkedin via KGP Speedcubers Account.
+- [ ] Share the Post on Facebook, Twitter and Linkedin via KGP Speedcubers Account.
 
-✔️ Speakers should be **_decided atleast a week_** before the workshop, preferably they should be decided when the workshop is conceived, giving them enough time to prepare.
+- [ ] Speakers should be **_decided atleast a week_** before the workshop, preferably they should be decided when the workshop is conceived, giving them enough time to prepare.
 
-✔️ It is important to have _atleast two_ backup speakers for each speaker.(One for the speaker, one for the backup speaker)
+- [ ] It is important to have _atleast two_ backup speakers for each speaker.(One for the speaker, one for the backup speaker)
 
-✔️ Speakers of the event should have enough practical experience with the topic. The experience is necessary so that speaker can convey the content in the simplest way and clear doubts.
+- [ ] Speakers of the event should have enough practical experience with the topic. The experience is necessary so that speaker can convey the content in the simplest way and clear doubts.
 
-✔️ It is highly recommended that the Slides for the event are made from scratch by the speaker.  Preparing from scratch will add creativity and newness to the content. New and simpler ways to present a topic might come out. 
+- [ ] It is highly recommended that the Slides for the event are made from scratch by the speaker.  Preparing from scratch will add creativity and newness to the content. New and simpler ways to present a topic might come out. 
 
-✔️ Make sure to take feedback on the slides(content) from other members of KGP Speedcubers. It is suggested to have the discussion over a meet to discuss things like potential queries from audience, thinking of ways to simplify content.
+- [ ] Make sure to take feedback on the slides(content) from other members of KGP Speedcubers. It is suggested to have the discussion over a meet to discuss things like potential queries from audience, thinking of ways to simplify content.
 
-✔️ It is a good idea to record the event(offline/online) for the sake of posterity.
+- [ ] It is a good idea to record the event(offline/online) for the sake of posterity.
 
-✔️ Make a Github repo for the workshop with name as event name and year which contains - installation instructions, slides, references, recording and others. 
+- [ ] Make a Github repo for the workshop with name as event name and year which contains - installation instructions, slides, references, recording and others. 
 
 ### 1.1 Internal
 
@@ -73,14 +73,14 @@ Make sure to give enough time to cover the queries and concerns of the audience 
 
     # 3.  Logistics - After workshop
 
-    ✔️ Upload the slides and reference in the GitHub repo made for the workshop.
+    - [ ] Upload the slides and reference in the GitHub repo made for the workshop.
 
-    ✔️ Once the audience has learned the basics from our workshop, we should encourage the curious ones to explore more advanced and interesting topics on their own. Hence for such people, update further reading material or links to explore more regarding the topic.
+    - [ ] Once the audience has learned the basics from our workshop, we should encourage the curious ones to explore more advanced and interesting topics on their own. Hence for such people, update further reading material or links to explore more regarding the topic.
 
-    ✔️ Share the updated repo's link along with a thanks for the audience. It is a good idea if the post explains the contents of the repo. A Facebook post after the workshop serves the purpose (For example, refer - [1](https://i.imgur.com/IoZsw6r.png),[2](https://i.imgur.com/fHflDQ2.png)).
+    - [ ] Share the updated repo's link along with a thanks for the audience. It is a good idea if the post explains the contents of the repo. A Facebook post after the workshop serves the purpose (For example, refer - [1](https://i.imgur.com/IoZsw6r.png),[2](https://i.imgur.com/fHflDQ2.png)).
 
-    ✔️ If the event is recorded then upload it on youtube via KGP Speedcubers account and share its link along with workshop's repo link.
+    - [ ] If the event is recorded then upload it on youtube via KGP Speedcubers account and share its link along with workshop's repo link.
 
-    ✔️ For sake of posterity, update the [KGP Speedcubersiitkgp/slides](KGP Speedcubersiitkgp/slides) repo
+    - [ ] For sake of posterity, update the [KGP-Speedcubersiitkgp/slides](KGP Speedcubersiitkgp/slides) repo
 
-    ✔️ Update the [KGP-Speedcubersiitkgp/mistakes](https://github.com/KGP-Speedcubersiitkgp/mistakes) repository
+    - [ ] Update the [KGP-Speedcubersiitkgp/mistakes](https://github.com/KGP-Speedcubersiitkgp/mistakes) repository
