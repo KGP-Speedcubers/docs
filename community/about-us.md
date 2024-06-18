@@ -14,6 +14,4 @@
 
 ## What do we NOT do?
 
-* Avoid joining KGP Speedcubers if you want a POR. Effectively, KGP Speedcubers probably won't add any value to your resume. KGP Speedcubers helps you to develop your speedcubing skills purely because we love speedcubing and the speedcubing community.
-
 * We can't force anyone to practise. In the end no matter how much you learn, the only way to improve at cubing is by practise. Erno Rubik once said that cubing is unique and beautiful in the way it is an almost exact blend of art of science, of physical and mental ability.
