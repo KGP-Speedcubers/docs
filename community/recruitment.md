@@ -5,13 +5,4 @@ toc=true
 # Recruitment
 
 ## Whom do we recruit?
-We recruit UG 1st years in the team, preferably after they have spent at least one semester on the campus and participated in KGP Speedcubers' events. We can also recruit any 2nd year in their third semester, based on recommendations by the members.
-
-## Do we accept M.Tech and Ph.D students?
-No. By acceptance, we mean that they will hold a number of responsibilities
-- Attend our meetings
-- Participate in conducting our workshops and help with the required logistics
-- Collaborate on projects together
-- Be an active member of the society
-
-However, we are always open to collaborating with non-KGP-Speedcubers members. They are welcome to join/lead our events or pitch something to us. If they want to talk about something, we can have them in one of our meetings as well.
+We recruit **EVERYONE**, they just have to be enthusiastic about the sport and be willing to participate in organising competitions and workshops. Our only requirement is that they align with our goals of popularising speedcubing on campus :D
